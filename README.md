@@ -4,13 +4,13 @@ RMarkdown template for Preregistration form for SMI205 class 2023. Please submit
 
 # Instructions
 
-Please download this whole folder and edit the R Markdown SMI205_Preregistration_form.RMD. 
+Please download this whole folder using the green button `<> Code` and edit the R Markdown SMI205_Preregistration_form.Rmd. 
 
-Knit it into a HTML document and publish as on the https://rpubs.com/ website. Send me a link to get formative feedback. 
+Knit it into a HTML document and publish on the https://rpubs.com/ website. After that send me a link to your Preregistration fomr to get formative feedback. If you change anything after obtaining my comments, please revise the study protocol, amend the date on top, and republish on Rpubs, so it is ready for you to be referenced in the Assessment 2 report. 
 
 # Sources
 
-This form was based on OSF Prereg Template (Bowman et al. 2020) and pieces of R Markdown prepared by Barlett (2021)/
+This form was based on OSF Prereg Template (Bowman et al. 2020) and some pieces of R Markdown scripte were adapted from a template prepared by Barlett (2021).
 
 # References
 
