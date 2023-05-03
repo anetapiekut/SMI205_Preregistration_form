@@ -1,0 +1,157 @@
+---
+title: "SMI205_Preregistration_form"
+author: "Your Student Number here"
+date: "2023-05-02"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+
+---
+
+```{r setup, include=FALSE}
+# By default, the code chunks are hidden. 
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r packages and data}
+# Load packages and data from the start
+```
+
+<!-- 
+The text surrounded by these arrows is for your information and is hidden when the final document is knitted.
+-->
+
+# 1. My replication project
+
+<!-- 
+Introduce the paper you have chosen for the replication project. Please add a  hyperlink in the doi number of the article. This is fine if you just copy this information from Assessment 1.
+-->
+
+This is a preregistration of an extension project for the following study:
+
+> Reference the chosen paper for your project here
+
+In my replication project I am focusing on the following argument made in the study:
+
+- Claim X: (page X)
+- Display item: (page X).
+
+# 2. Planned project extention
+
+## 2.1. Rationale for a new hypothesis
+
+<!--
+Present a new claim which you would like to test by extending the analysis of Claim X you decided to focus on in your replication project. Explain how your analysis extents the original study and, more broadly, how it contributes to the body of literature on the topic.
+Remember, make your counter-argument scientific by referring to evidence, like past research or other data. 
+-->
+
+Describe scientific rationale for the study extention. 
+
+## 2.2. Prediction
+
+<!--
+Write your new argument in a form of a hypothesis. 
+Neatly summarise what results you are expecting to get and whether you expect them to be similar or different from the original study, and why.
+-->
+
+
+> Hypothesis: 
+
+Do you expect to get the same or  different results from the original study? Why?
+
+# 3. Data
+
+<!--
+List all data sources you will use and describe whether the same data was used in the original study.
+If you constructed any new datasets on a basis of multiple secondary data, carefully describe the process and additional data sources.
+-->
+
+- Dataset 1 name - add information if it was used in the original study.
+- Dataset 2 name - explain if created on the basis of XXXXX and YYYY data. 
+
+# 4. Data analysis plan
+
+## 4.1. Model specification
+
+<!--
+Explain what methods of data analysis you will use to answer your hypothesis. This is likely to be a regression model, so explain what kind of regression it is and why.
+Briefly explain how your model specification differs from the one used for Claim X.
+-->
+
+I will test the hypothesis using the same/different regressoion model applied in the XXXXX study.
+
+## 4.2. Variables
+
+<!--
+Describe all variables that you will use in your data analysis. Explain how they were measured and whether they were manipulated in any way. 
+-->
+
+__Dependent variable(s):__
+
+__Independent variables (IVs):__
+
+- IV1
+- IV2
+
+## 4.3. Interference criteria
+
+<!--
+What criteria will you use to make inferences? These could be P-values, confidence intervals, and effect sizes.
+-->
+
+Example: We will use the standard p<0.05 criteria for determining if the statistical tests suggest that the results are significantly different from those expected if the null hypothesis. 
+
+## 4.4. Data exclusion
+
+<!-- 
+How will you determine what data or observations, if any, to exclude from your analyses? How will outliers be handled? Will you use any check to determine it?
+-->
+
+Describe your data exclusion criteria here or state not applicable.
+
+Example: No checks will be performed to determine eligibility for inclusion besides verification that each respondent answered each of the survey questions. Outliers will be included in the analysis. 
+
+## 4.5. Missing data
+
+<!-- 
+How will you deal with incomplete or missing data?
+Remember that if the final analysis does not follow the specified plan, any deviations must be either strongly justified or included as a separate, exploratory analysis. 
+--> 
+
+State your process for dealing with missing data or state not applicable.
+
+Example: If a respondent does not answer at least three out of seven questions measuring attitudes, that observation will not be included in the analysis.
+
+## 4.6. Exploratory data anlysis
+
+<!-- 
+If you plan to explore your data to look for unexpected differences or relationships, please describe those tests here. 
+An exploratory test is any test where a prediction is not made up front, or there are multiple possible tests that you are going to use. A statistically significant finding in an exploratory test is a great way to form a new confirmatory hypothesis. 
+-->
+
+Enter any plans for exploratory data analysis here or state not applicable.
+
+Example: We expect that certain demographic traits may be related to attitudes to migration. Therefore, we will look for relationships between demographic variables (such as age, gender, income) and the attitudinal measures.
+
+## 4.7. Other comments
+
+Space for any other relevant comments. IF not used, remove the section.
+
+# 5. Session info
+
+This preregistration form was completed in the following R environment:
+
+```{r session}
+sessionInfo()
+```
+
+# 6. References
+
+<!--
+Add a list of referenced sources here, so datasets and literature.
+-->
+
+Bartlett J. (2021). [OSF preregistration template.Rmd ](https://github.com/BartlettJE/BartlettJE.github.io/blob/master/RMarkdown-scripts/OSF%20preregistration%20template.Rmd). GitHub (accessed 03/05/2023)
+
+Bowman, S. D., DeHaven, A. C., Errington, T. M., Hardwicke, T. E., Mellor, D. T., Nosek, B. A., & Soderberg, C. K. (2020). OSF Prereg Template. https://doi.org/10.31222/osf.io/epgjd. OSF (accessed 03/05/2023)
