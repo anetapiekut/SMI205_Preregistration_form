@@ -1,6 +1,6 @@
 # SMI205_Preregistration_form
 
-RMarkdown template for Preregistration form for SMI205 class 2023. Please submit it for formative feedback before you explore data for your extention project (Assessment 2).
+RMarkdown template for Preregistration form for SMI205 class 2023. Please submit it for formative feedback before you explore data for your extension project (Assessment 2).
 
 # Instructions
 
