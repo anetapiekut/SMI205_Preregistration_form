@@ -4,9 +4,11 @@ RMarkdown template for Preregistration form for SMI205 class 2023. Please submit
 
 # Instructions
 
-Please download this whole folder using the green button `<> Code` and edit the R Markdown SMI205_Preregistration_form.Rmd. 
+Please download this whole folder using the green button `<> Code` and edit the R Markdown SMI205_Preregistration_form.Rmd. Use this form to register your data analysis protocol for the extension project for Assessment 2. 
 
-Knit it into a HTML document and publish on the https://rpubs.com/ website. After that send me a link to your Preregistration fomr to get formative feedback. If you change anything after obtaining my comments, please revise the study protocol, amend the date on top, and republish on Rpubs, so it is ready for you to be referenced in the Assessment 2 report. 
+Knit it into a HTML document and publish on the https://rpubs.com/ website. After that send me a link to your Preregistration form to get formative feedback. Please do so in the w/c 15th of May.
+
+If you change anything after obtaining my comments, please revise the study protocol, amend the date on top, and republish on Rpubs, so it is ready for you to be referenced in the Assessment 2 report. 
 
 # Sources
 
